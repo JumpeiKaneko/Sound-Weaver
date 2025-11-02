@@ -1,0 +1,12 @@
+{
+  "name": "sound-weaver-project",
+  "version": "1.0.0",
+  "description": "Sound Weaver Project for MAX/RNBO",
+  "main": "main.js",
+  "dependencies": {
+    "ws": "^7.5.9" 
+  },
+  "max_paths": [
+    "./.max_modules/node_modules"
+  ]
+}
